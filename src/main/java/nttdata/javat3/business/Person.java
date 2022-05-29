@@ -16,7 +16,7 @@ public abstract class Person {
 	 * @param dni  (dni)
 	 * @param name (nombre)
 	 */
-	public Person(String dni, String name) {
+	protected Person(String dni, String name) {
 		this.dni = dni;
 		this.name = name;
 	}

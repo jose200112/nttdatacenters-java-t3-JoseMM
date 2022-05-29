@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
  */
 public class ManagementServiceImpl implements ManagementServiceI {
 	private static final Logger LOG = LoggerFactory.getLogger(ManagementServiceImpl.class);
-	Map<String, Person> database = new HashMap<String, Person>();
+	Map<String, Person> database = new HashMap<>();
 
 	/**
 	 * Metodo que agrega personas
