@@ -8,7 +8,7 @@ import nttdata.javat3.business.ManagementServiceImpl;
  * @author jose
  *
  */
-public class T3MainJoseMM {
+public class T3MainJMM {
 	/**
 	 * Metodo main
 	 * 
